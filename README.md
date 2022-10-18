@@ -5,12 +5,24 @@ Steps to follow:
 
 1)Install pyttsx3 using this command
 
-```pip install pyttsx3```
+```
+
+pip install pyttsx3
+
+```
 
 2)Install tkinter using this command
 
-```pip install tk```
+```
+
+pip install tk
+
+```
 
 3)Run the below command to start the project
 
-```py text_to_speech.py```
+```
+
+py text_to_speech.py
+
+```
